@@ -41,7 +41,8 @@ main {
 }
 
 .item-name {
-    margin: 20px auto;
+    padding: 10px;
+    
 }
 
 .item-info {
